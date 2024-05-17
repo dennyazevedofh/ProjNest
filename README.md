@@ -15,6 +15,7 @@ Instituto federal de São Paulo - Campus Caraguatatuba
 * config
 * faker
 * uuid
+* class-validator
 
 #### Banco de Dados
 
